@@ -1,0 +1,74 @@
+
+=== STEP 1: Navigate to /login ===
+Page title: NexaBank — Digital Banking Platform
+Login page body background: rgb(9, 9, 11)
+Email inputs: 1, Password inputs: 1
+Demo credentials box visible: true
+Font family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+Geist font referenced: true
+OLED dark background (very dark bg): true
+Electric blue accent detected: true
+SCREENSHOT: 01-login-page.png — Login page initial load
+
+=== STEP 2: Fill in login form ===
+Email field value after fill: user@nexabank.com
+Password field value after fill: Demo@1234
+SCREENSHOT: 02-login-filled.png — Login form filled with credentials
+Submit button text: "Sign In"
+Login API response status: 200
+Login API response body: {"data":{"id":"cmpp4gxwi000167qv9m2ipmhn","email":"user@nexabank.com","name":"Jamie Smith","role":"user"}}
+SUCCESS: Redirected to /dashboard
+
+=== STEP 3: Dashboard ===
+Current URL: http://localhost:3000/dashboard
+Dashboard body background: rgb(9, 9, 11)
+SCREENSHOT: 03-dashboard-full.png — Full dashboard page
+
+=== STEP 4: Verify dashboard components ===
+Verifying on: http://localhost:3000/dashboard
+Sidebar/nav elements: 3
+Nav/sidebar links: 11
+Balance text found: 3
+Dollar amount elements: 19
+SVG elements (charts): 48
+Recharts elements: 76
+Transaction mentions: 2
+Health/Score mentions: 1
+Quick actions mentions: 6
+AI/Insight mentions: 3
+Glass card effect: backdrop-filter: blur(12px)
+Dark theme maintained on dashboard: true
+Page content checks: {"balance":true,"transactions":true,"savings":true,"dashboard":false,"health":true}
+
+=== STEP 5: Sidebar screenshot ===
+Sidebar element visible: true
+Sidebar bounding box: {"x":0,"y":0,"width":244,"height":900}
+SCREENSHOT: 04-sidebar.png — Sidebar cropped
+Sidebar background: rgb(12, 12, 15)
+Sidebar nav items: "NNexaBankOverviewTransferTransactionsSavingsSecuritySettingsJSJamie Smithuser@nexabank.com11Sign Out"
+
+=== STEP 6: Navigate to /transactions ===
+Navigated to /transactions
+Transactions page URL: http://localhost:3000/transactions
+Transactions page background: rgb(9, 9, 11)
+Has "transaction" text: true
+Has search/filter UI: true
+Transaction rows/items: 0
+Sidebar nav links to transactions: 2
+SCREENSHOT: 05-transactions.png — Transactions page
+
+=== STEP 7: Navigate to /savings ===
+Navigated to /savings
+Savings page URL: http://localhost:3000/savings
+Savings page background: rgb(9, 9, 11)
+Has "saving" text: true
+Has goals/progress: true
+SCREENSHOT: 06-savings.png — Savings page
+
+=== STEP 8: Navigate back to /dashboard ===
+Navigated back to /dashboard
+Final URL: http://localhost:3000/dashboard
+SCREENSHOT: 07-dashboard-return.png — Dashboard after returning from savings
+
+=== CONSOLE ERRORS ===
+No console errors detected

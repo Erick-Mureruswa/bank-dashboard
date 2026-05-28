@@ -1,0 +1,56 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - link "N NexaBank" [ref=e4] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e6]: "N"
+        - generic [ref=e7]: NexaBank
+      - generic [ref=e8]:
+        - generic [ref=e9]: Trusted by 500,000+ members
+        - heading "Banking that thinks ahead." [level=2] [ref=e11]:
+          - text: Banking that
+          - text: thinks ahead.
+        - paragraph [ref=e12]: Enterprise-grade security, real-time analytics, and intelligent insights — designed for people who value precision.
+        - generic [ref=e13]:
+          - generic [ref=e14]:
+            - generic [ref=e15]: 99.99%
+            - generic [ref=e16]: Uptime SLA
+          - generic [ref=e17]:
+            - generic [ref=e18]: <1s
+            - generic [ref=e19]: Transfer speed
+          - generic [ref=e20]:
+            - generic [ref=e21]: 256-bit
+            - generic [ref=e22]: AES Encryption
+          - generic [ref=e23]:
+            - generic [ref=e24]: 24/7
+            - generic [ref=e25]: Live monitoring
+      - paragraph [ref=e26]: © 2026 NexaBank. All rights reserved.
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - heading "Create your account" [level=1] [ref=e31]
+        - paragraph [ref=e32]: Start banking smarter in minutes
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - generic [ref=e35]: Full Name
+          - textbox "John Doe" [ref=e36]
+        - generic [ref=e37]:
+          - generic [ref=e38]: Email Address
+          - textbox "you@example.com" [ref=e39]
+        - generic [ref=e40]:
+          - generic [ref=e41]: Password
+          - generic [ref=e42]:
+            - textbox "••••••••" [ref=e43]
+            - button [ref=e44]:
+              - img [ref=e45]
+        - generic [ref=e48]:
+          - generic [ref=e49]: Confirm Password
+          - textbox "••••••••" [ref=e50]
+        - button "Create Account" [ref=e51]
+      - paragraph [ref=e52]: By creating an account you agree to our Terms of Service and Privacy Policy.
+      - paragraph [ref=e53]:
+        - text: Already have an account?
+        - link "Sign in" [ref=e54] [cursor=pointer]:
+          - /url: /login
+  - button "Open Next.js Dev Tools" [ref=e60] [cursor=pointer]:
+    - img [ref=e61]
+  - alert [ref=e66]

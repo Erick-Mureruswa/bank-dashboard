@@ -1,0 +1,131 @@
+[     220ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[     504ms] [LOG] [Fast Refresh] done in 394ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[    1625ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[    1723ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[    2075ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[    2399ms] [LOG] [Fast Refresh] done in 428ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[    5391ms] [WARNING] The resource http://localhost:3000/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/:0
+[    5391ms] [WARNING] The resource http://localhost:3000/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/:0
+[   34137ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[   37504ms] [WARNING] The resource http://localhost:3000/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/:0
+[   37504ms] [WARNING] The resource http://localhost:3000/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/:0
+[   41235ms] [LOG] [Fast Refresh] done in 7203ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[   75799ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[   75807ms] [LOG] [Fast Refresh] done in 129ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[   76155ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[   76159ms] [LOG] [Fast Refresh] done in 113ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[   76329ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[   76373ms] [LOG] [Fast Refresh] done in 151ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[   76677ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[   76682ms] [LOG] [Fast Refresh] done in 121ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[   78048ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[   78075ms] [LOG] [Fast Refresh] done in 135ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[  128869ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[  128903ms] [LOG] [Fast Refresh] done in 145ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[  130622ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[  130645ms] [LOG] [Fast Refresh] done in 125ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[  130786ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[  130787ms] [LOG] [Fast Refresh] done in 110ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[  130964ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[  130994ms] [LOG] [Fast Refresh] done in 137ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[  131195ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[  131243ms] [LOG] [Fast Refresh] done in 153ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[  790937ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[  790972ms] [LOG] [Fast Refresh] done in 136ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[  791079ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[  791303ms] [LOG] [Fast Refresh] done in 328ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[  794656ms] [WARNING] The resource http://localhost:3000/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/login:0
+[  794657ms] [WARNING] The resource http://localhost:3000/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/login:0
+[  810972ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[  811436ms] [LOG] [Fast Refresh] done in 570ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[  814276ms] [WARNING] The resource http://localhost:3000/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/login:0
+[  814278ms] [WARNING] The resource http://localhost:3000/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/login:0
+[  814419ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[  814433ms] [LOG] [Fast Refresh] done in 116ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[  815976ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ http://localhost:3000/api/auth/login:0
+[  818984ms] [WARNING] The resource http://localhost:3000/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/login:0
+[  818984ms] [WARNING] The resource http://localhost:3000/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/login:0
+[ 1490302ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1490354ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ http://localhost:3000/signup:0
+[ 1490355ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ http://localhost:3000/signup:0
+[ 1490386ms] [LOG] [Fast Refresh] done in 185ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1493440ms] [WARNING] The resource http://localhost:3000/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/signup:0
+[ 1493440ms] [WARNING] The resource http://localhost:3000/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/signup:0
+[ 1525113ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1527893ms] [LOG] [Fast Refresh] done in 2887ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1528425ms] [WARNING] The resource http://localhost:3000/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/signup:0
+[ 1528425ms] [WARNING] The resource http://localhost:3000/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/signup:0
+[ 1537766ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1538425ms] [LOG] [Fast Refresh] done in 773ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1541012ms] [WARNING] The resource http://localhost:3000/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/signup:0
+[ 1541014ms] [WARNING] The resource http://localhost:3000/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/signup:0
+[ 1541175ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1541192ms] [LOG] [Fast Refresh] done in 121ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1541835ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1541838ms] [LOG] [Fast Refresh] done in 104ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1544022ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1544227ms] [LOG] [Fast Refresh] done in 319ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1549586ms] [WARNING] The resource http://localhost:3000/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/dashboard:0
+[ 1549588ms] [WARNING] The resource http://localhost:3000/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/dashboard:0
+[ 1561997ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1565189ms] [WARNING] The resource http://localhost:3000/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/dashboard:0
+[ 1565189ms] [WARNING] The resource http://localhost:3000/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/dashboard:0
+[ 1565757ms] [LOG] [Fast Refresh] done in 3876ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1566055ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1566613ms] [LOG] [Fast Refresh] done in 690ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1566790ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1567009ms] [LOG] [Fast Refresh] done in 333ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1573445ms] [WARNING] The resource http://localhost:3000/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/transfer:0
+[ 1573445ms] [WARNING] The resource http://localhost:3000/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/transfer:0
+[ 1576384ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1577729ms] [LOG] [Fast Refresh] done in 1446ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1578650ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1578812ms] [LOG] [Fast Refresh] done in 333ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1579125ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1579278ms] [LOG] [Fast Refresh] done in 260ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1585801ms] [WARNING] The resource http://localhost:3000/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/transactions:0
+[ 1585802ms] [WARNING] The resource http://localhost:3000/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/transactions:0
+[ 1589211ms] [WARNING] The resource http://localhost:3000/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/transactions:0
+[ 1589211ms] [WARNING] The resource http://localhost:3000/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/transactions:0
+[ 1659157ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1659820ms] [LOG] [Fast Refresh] done in 767ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1660258ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1660268ms] [LOG] [Fast Refresh] done in 119ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1664522ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1667173ms] [LOG] [Fast Refresh] done in 2750ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1667431ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1667450ms] [LOG] [Fast Refresh] done in 202ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1667585ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1667914ms] [LOG] [Fast Refresh] done in 437ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1668017ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1668075ms] [LOG] [Fast Refresh] done in 161ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1668194ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1668243ms] [LOG] [Fast Refresh] done in 149ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1668406ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1669583ms] [LOG] [Fast Refresh] done in 1288ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1675673ms] [WARNING] The resource http://localhost:3000/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/security:0
+[ 1675673ms] [WARNING] The resource http://localhost:3000/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/security:0
+[ 1682634ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1684855ms] [LOG] [Fast Refresh] done in 2327ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1685131ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1685295ms] [LOG] [Fast Refresh] done in 287ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 1687174ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ http://localhost:3000/settings:0
+[ 1687175ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ http://localhost:3000/settings:0
+[ 1687175ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ http://localhost:3000/settings:0
+[ 1693411ms] [WARNING] The resource http://localhost:3000/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/settings:0
+[ 1693412ms] [WARNING] The resource http://localhost:3000/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/settings:0
+[ 3145054ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 3145056ms] [LOG] [Fast Refresh] done in 119ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 3207821ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 3209352ms] [LOG] [Fast Refresh] done in 1641ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 3211139ms] [WARNING] The resource http://localhost:3000/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/settings:0
+[ 3211139ms] [WARNING] The resource http://localhost:3000/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/settings:0
+[ 3230063ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 3230162ms] [LOG] [Fast Refresh] done in 219ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 3235639ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 3235697ms] [LOG] [Fast Refresh] done in 174ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 3235839ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 3235840ms] [LOG] [Fast Refresh] done in 107ms @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 4701580ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0s7p_next_dist_0407i4s._.js:2477
+[ 4704891ms] [WARNING] The resource http://localhost:3000/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/settings:0
+[ 4704891ms] [WARNING] The resource http://localhost:3000/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3000/settings:0
